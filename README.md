@@ -14,3 +14,26 @@ A basic chatbot that sends a single request to OpenAI's API and prints the respo
 #### How to Run:
 1. Replace the API key with your OpenAI API key.
 2. Run the script in Python.
+
+2. Interactive Chatbot Assistant
+
+A more advanced chatbot that interacts with the user in a continuous conversation.
+
+Features:
+
+Allows the user to define the chatbot's role.
+
+Supports an ongoing conversation with multiple messages.
+
+How to Run:
+
+Replace the API key with your OpenAI API key.
+
+Run the script in Python.
+
+Enter the chatbot's role when prompted.
+
+Start chatting with the assistant.
+
+Type quit() to exit the chat.
+
